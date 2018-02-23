@@ -88,6 +88,7 @@
 [Slatestar Codex](http://slatestarcodex.com/)  
 [LessWrong](http://lesswrong.com/)  
 [Jim McDonald: Focusing on real-world use cases for Ethereum](https://medium.com/@jgm.orinoco)  
+[Overcomingbias.com](http://www.overcomingbias.com/)
 
 [Hudson James](https://hudsonjameson.com/)  
 
