@@ -4,13 +4,13 @@
 
 ### E-mail
 
-[Throw-away e-mail](http://www.throwawaymail.com/en)
-[Disroot](https://disroot.org/en)
-[Tutanota](https://tutanota.com/)
-[Cock.li](https://cock.li/)
-[Riseup](https://riseup.net/en)
-[Autistici/Inventati](https://www.autistici.org/)
-[Kolabnow](https://kolabnow.com/)
+[Throw-away e-mail](http://www.throwawaymail.com/en)  
+[Disroot](https://disroot.org/en)  
+[Tutanota](https://tutanota.com/)  
+[Cock.li](https://cock.li/)  
+[Riseup](https://riseup.net/en)  
+[Autistici/Inventati](https://www.autistici.org/)  
+[Kolabnow](https://kolabnow.com/)  
 
 
 ### Messaging
