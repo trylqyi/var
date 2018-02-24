@@ -169,3 +169,8 @@
 [/r/writinggigs](https://www.reddit.com/r/writing_gigs/)  
 [/r/cryptotechnology](https://www.reddit.com/r/CryptoTechnology/)  
 [/r/nanotrade](https://www.reddit.com/r/nanotrade/)  
+
+
+
+### Various Tools
+[Coingossip tracker](https://coingossip.club/)
